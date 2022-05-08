@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/AdminCRUFrontendReactJS/static/js/main.a75a6533.chunk.js",
+    "main.js.map": "/AdminCRUFrontendReactJS/static/js/main.a75a6533.chunk.js.map",
+    "runtime-main.js": "/AdminCRUFrontendReactJS/static/js/runtime-main.1b734f52.js",
+    "runtime-main.js.map": "/AdminCRUFrontendReactJS/static/js/runtime-main.1b734f52.js.map",
+    "static/js/2.0a4ceb14.chunk.js": "/AdminCRUFrontendReactJS/static/js/2.0a4ceb14.chunk.js",
+    "static/js/2.0a4ceb14.chunk.js.map": "/AdminCRUFrontendReactJS/static/js/2.0a4ceb14.chunk.js.map",
+    "index.html": "/AdminCRUFrontendReactJS/index.html",
+    "precache-manifest.9923a9fdf13d5d89168e5219ee4f21e7.js": "/AdminCRUFrontendReactJS/precache-manifest.9923a9fdf13d5d89168e5219ee4f21e7.js",
+    "service-worker.js": "/AdminCRUFrontendReactJS/service-worker.js",
+    "static/js/2.0a4ceb14.chunk.js.LICENSE.txt": "/AdminCRUFrontendReactJS/static/js/2.0a4ceb14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b734f52.js",
+    "static/js/2.0a4ceb14.chunk.js",
+    "static/js/main.a75a6533.chunk.js"
+  ]
+}
