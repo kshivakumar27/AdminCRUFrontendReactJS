@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/AdminCRUFrontendReactJS/static/js/main.19f400bb.chunk.js",
+    "main.js.map": "/AdminCRUFrontendReactJS/static/js/main.19f400bb.chunk.js.map",
+    "runtime-main.js": "/AdminCRUFrontendReactJS/static/js/runtime-main.1b734f52.js",
+    "runtime-main.js.map": "/AdminCRUFrontendReactJS/static/js/runtime-main.1b734f52.js.map",
+    "static/js/2.0a4ceb14.chunk.js": "/AdminCRUFrontendReactJS/static/js/2.0a4ceb14.chunk.js",
+    "static/js/2.0a4ceb14.chunk.js.map": "/AdminCRUFrontendReactJS/static/js/2.0a4ceb14.chunk.js.map",
+    "index.html": "/AdminCRUFrontendReactJS/index.html",
+    "precache-manifest.1803223cafee84bdc90274fa07607349.js": "/AdminCRUFrontendReactJS/precache-manifest.1803223cafee84bdc90274fa07607349.js",
+    "service-worker.js": "/AdminCRUFrontendReactJS/service-worker.js",
+    "static/js/2.0a4ceb14.chunk.js.LICENSE.txt": "/AdminCRUFrontendReactJS/static/js/2.0a4ceb14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b734f52.js",
+    "static/js/2.0a4ceb14.chunk.js",
+    "static/js/main.19f400bb.chunk.js"
+  ]
+}
